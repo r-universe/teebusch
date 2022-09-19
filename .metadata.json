@@ -1,5 +1,9 @@
 [
   {
+    "package": "mifa",
+    "oncran": true
+  },
+  {
     "package": "noah",
     "oncran": true
   }
