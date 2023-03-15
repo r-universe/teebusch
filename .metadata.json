@@ -1,10 +1,10 @@
 [
   {
-    "package": "noah",
+    "package": "mifa",
     "oncran": true
   },
   {
-    "package": "mifa",
+    "package": "noah",
     "oncran": true
   }
 ]
